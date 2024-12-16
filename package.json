@@ -1,0 +1,23 @@
+{
+  "name": "aave_v3_flashloan_basics",
+  "version": "1.0.0",
+  "description": "A Hardhat Solidity App To Demonstrate Flash Loans via Aave",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesBurnsBacon/Aave_v3_Flashloan_Basics.git"
+  },
+  "author": "James Burns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesBurnsBacon/Aave_v3_Flashloan_Basics/issues"
+  },
+  "homepage": "https://github.com/JamesBurnsBacon/Aave_v3_Flashloan_Basics#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  }
+}
